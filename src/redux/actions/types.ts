@@ -1,0 +1,11 @@
+export const AUTH_USER = 'auth_user';
+export const AUTH_ERROR = 'auth_error';
+export const SIGNUP_ERROR = 'auth_error';
+export const CLEAR_CART = 'clear_cart';
+export const ADD_ITEM = 'add_item';
+export const REMOVE_ITEM = 'remove_item';
+export const DELETE_ITEM = 'delete_item';
+export const FETCH_PIZZAS = 'fetch_pizzas';
+export const FETCH_ERROR = 'fetch_error';
+export const FETCH_ORDERS = 'fetch_orders';
+export const FETCH_PREFILL = 'fetch_prefill';
